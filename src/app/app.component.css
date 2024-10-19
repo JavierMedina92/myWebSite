@@ -1,9 +1,25 @@
+
 nav a {
     margin: 10px;
     text-decoration: none;
-    color: blue;
+    color: rgb(200, 255, 0);
+    background-color: rgba(15, 11, 223, 0.747);
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer
   }
   nav a:hover {
-    text-decoration: underline;
+    color: rgb(6, 241, 6);
+    background-color: rgb(232, 248, 8);
   }
   
+  h1 {
+    color: rgb(234, 238, 8);
+    font-size: 36px;
+    text-align: center; /* Centrará el texto horizontalmente */
+    margin-top: 20px; /* Opcional: ajusta el margen superior */
+  }
+  
+  .enlaces {
+    text-align: center;
+  }

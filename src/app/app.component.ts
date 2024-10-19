@@ -8,6 +8,8 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
+
+
 export class AppComponent {
-  title = 'Desarrollo Web Javier Medina';
+  title = 'Bienvenido al Sitio de Javier Medina';
 }
